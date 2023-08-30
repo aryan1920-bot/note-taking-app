@@ -4,7 +4,7 @@ const curryear = new Date().getFullYear();
 function Footer() {
   return (
     <footer>
-      <p>Copyright @ {curryear}</p>
+      <p>Copyright @ {curryear} Aryan Singla</p>
     </footer>
   );
 }
